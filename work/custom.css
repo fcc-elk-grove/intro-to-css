@@ -1,0 +1,34 @@
+/* This is a comment */
+
+/*
+
+  Comments can be multi-line
+
+ */
+
+/* Select single type of element */
+p {
+  color: red;
+  background-color: black;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+/* Select a single element with an id */
+/* #main-paragraph {
+  color: blue;
+} */
+
+/* Select a group of elements with a class */
+/* .header-class {
+  color: green;
+} */
+
+/* Select a group of elements */
+/* h4, h5, h6 {
+  background-color: red;
+} */
+
+/* div p {
+  color: brown;
+} */

@@ -1,0 +1,38 @@
+/* This is a comment in CSS */
+
+/* Comments can span
+multiple lines, like this. */
+
+/* Naming: CSS files end in a .css extension */
+
+/***************************/
+
+/* Select a single element */
+p {
+  color: red;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+
+/* Select an id */
+#main-paragraph {
+  color: blue;
+}
+
+
+/* Select a class */
+.main-headers {
+
+}
+
+/* Select multiple elements */
+h4, h5, h6, p {
+  background-color: green;
+}
+
+/* Select children of element */
+div p {
+  background-color: brown;
+  margin-top: 20px;
+}
